@@ -64,4 +64,4 @@ This dashboard provides a 360° view of car sales performance across multiple di
 
 🏁 Outcome
 This project showcases my ability to turn raw data into actionable insights using Power BI. It reflects strong analytical thinking, domain understanding, and a user-focused approach to dashboard design.
-![image alt]()
+![image alt](https://raw.githubusercontent.com/ChandruElamaran/powerbi-cars-based-project/45e61116f4c2dc28afad119034116b98a9705f15/car1.png)
